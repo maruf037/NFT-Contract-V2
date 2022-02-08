@@ -1,2 +1,2 @@
-This repo is a simple smart contract for NFT using metamask, solidity, hardhat, pinata and alchemy.
+This repo is a simple smart contract for NFT using openzeppelin, metamask, solidity, hardhat, pinata and alchemy.
 
