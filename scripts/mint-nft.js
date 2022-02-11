@@ -54,5 +54,5 @@ async function mintNFT(tokenURI) {
 
 //Calling 'mintNFT' function for minting the NFT with hashcode or CID of the metadata file uploaded in pinata
 mintNFT(
-    'https://gateway.pinata.cloud/ipfs/QmQEoEzxrxNMA48N5Cy9G6LM4TBq58fUgRJ2TQk6xMxJ4R'
+    'https://gateway.pinata.cloud/ipfs/QmTcwVhTGeTgkCw1xK42L7txuc7gm52K3di8ftz9heiizi'
 );
